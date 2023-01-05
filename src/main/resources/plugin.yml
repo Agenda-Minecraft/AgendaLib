@@ -1,0 +1,7 @@
+name: AgendaLib
+version: 1
+main: cat.kiwi.minecraft.agenda.AgendaLib
+load: STARTUP
+authors: [ moeKiwiSAMA ]
+description: Lib
+api-version: 1.12
